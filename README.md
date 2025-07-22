@@ -1,6 +1,6 @@
 # 📊 Business Sales Data Dashboard (E-Commerce) | Power BI
 
-This Power BI dashboard was built as part of my internship at **Future Interns**. It provides a comprehensive analysis of e-commerce sales data to uncover best-selling products, sales trends, and high-revenue categories. The dashboard helps derive actionable business insights through interactive visuals and storytelling.
+This Power BI dashboard was developed as my first task during an internship at Future Interns. The project focuses on analyzing e-commerce sales data to identify best-selling products, sales trends, and top-performing categories. Through interactive visuals and data storytelling, the dashboard delivers actionable insights to support business decisions.
 
 ---
 
@@ -45,7 +45,7 @@ This Power BI dashboard was built as part of my internship at **Future Interns**
 - `Ecommerce Sales Dataset.csv` — Cleaned dataset used for analysis  
 - `Business Sales Dashboard.pbix` — Power BI project file  
 - `Business Sales Dashboard.png` — Final dashboard screenshot  
-- `Assets/` — Optional icons/images used in the report visuals
+- `Images/` — Images used in the report visuals
 
 ---
 
